@@ -3,7 +3,6 @@ appdirs==1.4.4
 astunparse==1.6.3
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
-conda-verify==3.4.2
 et-xmlfile==1.1.0
 flatbuffers==24.3.25
 fonttools==4.25.0
