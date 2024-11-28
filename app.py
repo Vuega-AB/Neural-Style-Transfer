@@ -1,12 +1,10 @@
-import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
+import tensorflow as tf
 import streamlit as st
 from matplotlib.pyplot import imshow
 from PIL import Image
 import pprint
-import tensorflow as tf
-import numpy as np
 
 # Set random seed for reproducibility
 tf.random.set_seed(272) 
