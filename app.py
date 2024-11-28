@@ -6,7 +6,6 @@ from matplotlib.pyplot import imshow
 from PIL import Image
 import pprint
 import tensorflow as tf
-from tensorflow.python.framework.ops import EagerTensor
 import numpy as np
 
 # Set random seed for reproducibility
